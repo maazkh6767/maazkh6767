@@ -1,0 +1,16 @@
+
+
+#include <stdio.h> 
+int main() {
+    //  print formatted details with escape sequences
+    // displaying name
+    printf("Name: \t\tKhan Maaz Yasin \n"); 
+    // Displaying age
+    printf("Age: \t\t19 \n");
+    // Displaying UIN
+    printf("UIN: \t\t241S079 \n"); 
+    // Displaying branch
+    printf("Branch: \tECS \n");                           
+   
+    return 0; 
+}
