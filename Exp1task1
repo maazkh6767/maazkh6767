@@ -1,4 +1,12 @@
+/*
+    Expt. No : 1 , (task 1)
+    Title : WAP to print your name, age, class, division and UIN on the screen.
+     Use escape sequences to properly format the output.
 
+    Name: Khan Maaz Yasin
+    Class & Div: ECS-E
+    UIN: 241S079
+ */
 
 #include <stdio.h> 
 int main() {
@@ -14,3 +22,13 @@ int main() {
    
     return 0; 
 }
+/* 
+OUTPUT
+
+Full Name	: Khan Maaz Yasin
+Age			: 19
+Class		: FE-ECs
+Division	: E
+UIN			: 241S079
+
+*/
